@@ -2,7 +2,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" width="1000"/>
 </p>
 
-<h1 align="center">🇮🇷 علی — ایرانی، برنامه‌نویس، حامی غزه و دشمن اسرائیل 🇵🇸</h1>
+<h1 align="center" style="font-size: 42px; font-weight: bold;">🇮🇷 THE IRANIAN DEVELOPER 🇮🇷</h1>
+<h3 align="center" style="color: red;">🔥 Coding from IRAN • Fighting for Justice • Supporting PALESTINE 🔥</h3>
 
 ---
 
