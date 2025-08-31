@@ -50,6 +50,6 @@
 <p align="center">
   <b>💌 Contact:</b> 
   Email: ayatiali910 | 
-  Bale: <a href="https://bale.ai/@aaq1386">@aaq1386</a> | 
+  Bale: <a href="https://ble.ir/@aaq1386">@aaq1386</a> | 
   Telegram: <a href="https://t.me/aaq1386">@aaq1386</a>
 </p>
