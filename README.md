@@ -46,18 +46,10 @@
   </a>
 </p>
 
-<!-- 🚀 Featured Projects -->
-<p align="center">
-  <b>🚀 Featured Projects:</b><br>
-  <a href="https://github.com/MrAAQPy/Project1">Project1</a> • 
-  <a href="https://github.com/MrAAQPy/Project2">Project2</a> • 
-  <a href="https://github.com/MrAAQPy/Project3">Project3</a>
-</p>
-
 <!-- 💌 Contact -->
 <p align="center">
   <b>💌 Contact:</b> 
-  <a href="mailto:your-email@example.com">Email</a> | 
-  <a href="https://twitter.com/MrAAQPy">Twitter</a> | 
-  <a href="https://linkedin.com/in/YourLinkedIn">LinkedIn</a>
+  Email: ayatiali910 | 
+  Bale: <a href="https://bale.ai/@aaq1386">@aaq1386</a> | 
+  Telegram: <a href="https://t.me/aaq1386">@aaq1386</a>
 </p>
