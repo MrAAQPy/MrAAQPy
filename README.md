@@ -1,54 +1,75 @@
-<!-- 🇮🇷 پرچم ایران بزرگ با افکت شناور -->
+<!-- 🇮🇷 پرچم ایران با افکت شناور -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" width="800" style="animation: float 3s ease-in-out infinite;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" width="600" style="animation: float 3s ease-in-out infinite;" />
 </p>
 
 <style>
+/* افکت شناور پرچم */
 @keyframes float {
   0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
+  50% { transform: translateY(-15px); }
 }
-</style>
 
-<!-- 🔥 تیتر اصلی با انیمیشن رنگین‌کمانی -->
-<h1 align="center" style="font-weight: bold; font-size: 56px; font-family: 'Courier New', monospace; background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent; animation: rainbow 5s linear infinite;">
-  🇮🇷 THE IRANIAN DEVELOPER 🇮🇷
-</h1>
-
-<style>
+/* افکت رنگین‌کمانی تیتر */
 @keyframes rainbow {
   0% { background-position: 0% 50%; }
   100% { background-position: 100% 50%; }
 }
+
+.rainbow-text {
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Courier New', monospace;
+  background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+  -webkit-background-clip: text;
+  color: transparent;
+  background-size: 200% 200%;
+  animation: rainbow 5s linear infinite;
+  text-align: center;
+}
+
+/* زیرتیتر Neon-style */
+.neon-subtitle {
+  font-size: 24px;
+  color: crimson;
+  text-align: center;
+  text-shadow: 0 0 5px #ff4444, 0 0 10px #ff8888, 0 0 20px #ffaaaa;
+}
+
+/* کارت‌های گیت‌هاب */
+.card-style {
+  box-shadow: 0 0 15px #ff4444;
+  border-radius: 15px;
+  margin: 10px auto;
+  display: inline-block;
+}
 </style>
 
-<h3 align="center" style="color: crimson; font-family: 'Arial', sans-serif; text-shadow: 0 0 10px crimson, 0 0 20px darkred;">
-  🔥 Coding from IRAN • Fighting for Justice • Supporting PALESTINE 🔥
-</h3>
+<!-- تیتر اصلی و زیرتیتر -->
+<h1 class="rainbow-text">🇮🇷 THE IRANIAN DEVELOPER 🇮🇷</h1>
+<h3 class="neon-subtitle">🔥 Coding from IRAN • Fighting for Justice • Supporting PALESTINE 🔥</h3>
 
-<hr style="border: none; height: 3px; background: linear-gradient(to right, crimson, darkred); border-radius: 10px;" />
-
-<!-- 👨‍💻 معرفی شخصی با glow effect -->
-<p align="center" style="font-size: 20px; font-weight: bold; color: #ff4444; text-shadow: 0 0 5px #ff4444, 0 0 10px #ff8888;">
+<!-- معرفی شخصی -->
+<p align="center" style="font-size:20px; font-weight:bold; color:#ff4444; text-shadow: 0 0 5px #ff4444, 0 0 10px #ff8888;">
   Full-stack Developer | Python & Flask | Open Source Lover
 </p>
 
-<!-- 📈 آمار مشارکت‌ها با کارت رنگی -->
+<!-- آمار مشارکت‌ها -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrAAQPy&theme=radical&hide_border=true&border_radius=15" style="box-shadow: 0 0 20px #ff4444;" />
+  <img class="card-style" src="https://streak-stats.demolab.com/?user=MrAAQPy&theme=radical&hide_border=true&border_radius=15" />
 </p>
 
-<!-- 📊 وضعیت کلی گیت‌هاب با کارت رنگی -->
+<!-- وضعیت کلی گیت‌هاب -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAAQPy&show_icons=true&theme=radical&hide_border=true&border_radius=15" style="box-shadow: 0 0 20px #ff4444;" />
+  <img class="card-style" src="https://github-readme-stats.vercel.app/api?username=MrAAQPy&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
 </p>
 
-<!-- 🔠 زبان‌های محبوب -->
+<!-- زبان‌های محبوب -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAAQPy&layout=normal&theme=radical&hide_border=true&border_radius=15" style="box-shadow: 0 0 20px #ff4444;" />
+  <img class="card-style" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAAQPy&layout=normal&theme=radical&hide_border=true&border_radius=15" />
 </p>
 
-<!-- 🎖️ Badges با hover -->
+<!-- Badges -->
 <p align="center">
   <a href="https://github.com/MrAAQPy" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MrAAQPy" alt="Visitors" />
@@ -61,7 +82,7 @@
   </a>
 </p>
 
-<!-- 💌 Contact با آیکون -->
+<!-- Contact -->
 <p align="center">
   <b>💌 Contact:</b> 
   <br/>
